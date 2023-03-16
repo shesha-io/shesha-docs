@@ -2,7 +2,7 @@
 
 Documentation for shesha related components and tools.
 
-[![docs]([https://readthedocs.org/projects/shesha-docs/badge/?version=latest])(https://shesha-documentation.readthedocs.io/en/latest/)
+[![docs](https://shesha-documentation.readthedocs.io/en/latest/)](https://shesha-documentation.readthedocs.io/en/latest/)
 
 ## Documentation
 
