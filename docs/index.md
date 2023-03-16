@@ -56,7 +56,7 @@ In addition to all the above which is part of the open-sourced community edition
   * (TBD - Cloud management for ISVs)
 
 ## Getting Started
-Learn how to <a href="https://shesha-docs.readthedocs.io/en/latest/2.%20Build%20Your%20First%20App/2.1.%20Tutorial%20Overview/" target="_blank">create your first Shesha application</a>.
+Learn how to <a href="https://shesha-documentation.readthedocs.io/en/latest/2.%20Build%20Your%20First%20App/2.1.%20Tutorial%20Overview/" target="_blank">create your first Shesha application</a>.
 
 ## Other Useful Links: 
 * <a href="https://shesha.io/" target="_blank">Public site</a>
