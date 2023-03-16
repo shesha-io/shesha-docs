@@ -16,4 +16,4 @@ You can head over to our formal [documentation website](https://shesha-documenta
 
 ## License
 
-Shesha and the various shesha community components and services are available under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0). Shesha also includes external libraries that are available under a variety of licenses. See <a href="https://github.com/shesha-io/shesha-docs/blob/main/LICENSE" target="_blank">LICENSE</a> for the full license text.
+Shesha and the various shesha community components and services are available under the <a href="https://opensource.org/licenses/GPL-3.0" target="_blank">GPL-3.0 license</a>. Shesha also includes external libraries that are available under a variety of licenses. See <a href="https://github.com/shesha-io/shesha-docs/blob/main/LICENSE" target="_blank">LICENSE</a> for the full license text.
