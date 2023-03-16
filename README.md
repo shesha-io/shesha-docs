@@ -1,4 +1,5 @@
 # shesha-docs
+
 Documentation for shesha related components and tools.
 
 [![docs](https://readthedocs.org/projects/shesha-docs/badge/?version=latest)](https://shesha-docs.readthedocs.io/en/latest/?badge=latest)
@@ -8,12 +9,11 @@ Documentation for shesha related components and tools.
 You can head over to our formal [documentation website](https://shesha-docs.readthedocs.io/en/latest/) for the latest documentation:
 
 - Guides
-  - [Quickstart]()
-  - [Tutorials]()
-- Resources
-  - [Brand Guidelinees]()
-  - [Glossary]()
-  - [FAQ]()
+  - [Getting Started]()
+  - [Build Your First App]()
+  - [Front End Core Concepts]()
+  - [Back End Core Concepts]()
+  - [Fundamentals]()
 
 ## License
 
